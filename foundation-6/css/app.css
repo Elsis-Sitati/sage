@@ -1,7 +1,24 @@
-div#row1 {
+div#container {
     height: 100%;
-    background-color: #3A3033;
+    margin: 0%;
+    padding: 0%;
 }
-div#maincontainer {
+div#homepage {
+    background-color: #3A3033;
     height: 100%;
+}
+div#title {
+    height: 25%;
+}
+i.fa.fa-facebook {
+    margin-left: 77%;
+}
+div#nav {
+    font-size: 10px;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 1%;
+}
+div#social {
+    margin-top: 1%;
 }
