@@ -22,3 +22,18 @@ div#nav {
 div#social {
     margin-top: 1%;
 }
+p#hm1 {
+    color: white;
+    font-size: 3em;
+}
+p#hm2 {
+    color: wheat;
+}
+i.fa.fa-minus.fa-3x {
+    margin-top: 7%;
+    margin-left: 5%;
+    font-size: 3em;
+}
+div#hometext {
+    text-align: center;
+}
