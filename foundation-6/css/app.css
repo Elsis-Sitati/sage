@@ -1,4 +1,4 @@
-div#container {
+    div#container {
     height: 100%;
     margin: 0%;
     padding: 0%;
@@ -72,6 +72,7 @@ div#blank {
     height: 30%;
     padding-left: 0%;
     padding-right: 0%;
+    margin-top: -3%;
 }
 div#colors {
     height: 100%;
@@ -84,3 +85,11 @@ div#grey {
     height: 100%;
     background-color: #362B2F;
 }
+a.button {
+    background-color: red;
+    margin-top: 2%;
+}
+div#discover {
+    text-align: center;
+    background-color: #FAFAFA;
+    font-size: 11px;
