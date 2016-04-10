@@ -68,3 +68,19 @@ h1 {
     margin-right: 11%;
     font-weight: 900;
 }
+div#blank {
+    height: 30%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+div#colors {
+    height: 100%;
+}
+div#black {
+    height: 100%;
+    background-color: #3A3033;
+}
+div#grey {
+    height: 100%;
+    background-color: #362B2F;
+}
