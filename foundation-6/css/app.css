@@ -40,3 +40,18 @@ div#hometext {
 div#info {
     height: 200%;
 }
+div#projects {
+    height: 19%;
+}
+div#leftproject {
+    height: 100%;
+}
+div#nestedprojects {
+    height: 100%;
+}
+div#highlighted {
+    background-color: #FAFAFA;
+    margin: 0%;
+    padding-bottom: 0%;
+    height: 56%;
+}
