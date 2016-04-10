@@ -41,7 +41,7 @@
         height: 200%;
     }
     div#projects {
-        height: 19%;
+        height: 23%;
     }
     div#leftproject {
         height: 100%;
@@ -107,4 +107,30 @@
     b#b2 {
         font-size: 28px;
         color: #FFFFFF;
+    }
+    h1#history {
+        margin-top: 2%;
+    }
+    p#hip1 {
+        margin-top: 4%;
+        margin-left: 21%;
+        margin-right: 24%;
+        font-size: 12px;
+    }
+    a#hisbutton {
+        margin-left: 20%;
+    }
+    div#hitext1 {
+        height: 100%;
+    }
+    img {
+        width: 50%;
+        height: 100%;
+        margin-left: 18%;
+    }
+    div#hiimage {
+        height: 100%;
+    }
+    div#history {
+        height: 20%;
     }
