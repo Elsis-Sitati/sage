@@ -1,95 +1,110 @@
     div#container {
-    height: 100%;
-    margin: 0%;
-    padding: 0%;
-}
-div#homepage {
-    background-color: #3A3033;
-    height: 100%;
-}
-div#title {
-    height: 25%;
-}
-i.fa.fa-facebook {
-    margin-left: 77%;
-}
-div#nav {
-    font-size: 10px;
-    padding: 0%;
-    margin: 0%;
-    margin-top: 1%;
-}
-div#social {
-    margin-top: 1%;
-}
-p#hm1 {
-    color: white;
-    font-size: 3em;
-}
-p#hm2 {
-    color: wheat;
-}
-i.fa.fa-minus.fa-3x {
-    margin-top: 7%;
-    margin-left: 5%;
-    font-size: 3em;
-}
-div#hometext {
-    text-align: center;
-}
-div#info {
-    height: 200%;
-}
-div#projects {
-    height: 19%;
-}
-div#leftproject {
-    height: 100%;
-}
-div#nestedprojects {
-    height: 100%;
-}
-div#highlighted {
-    background-color: #FAFAFA;
-    margin: 0%;
-    padding-bottom: 0%;
-    height: 56%;
-}
-p#lftp1 {
-    margin-top: 10%;
-    margin-left: 20%;
-    font-size: 12px;
-    margin-right: 11%;
-}
-h1 {
-    margin-top: 0%;
-    margin-left: 20%;
-    font-size: 30px;
-    margin-right: 11%;
-    font-weight: 900;
-}
-div#blank {
-    height: 30%;
-    padding-left: 0%;
-    padding-right: 0%;
-    margin-top: -3%;
-}
-div#colors {
-    height: 100%;
-}
-div#black {
-    height: 100%;
-    background-color: #3A3033;
-}
-div#grey {
-    height: 100%;
-    background-color: #362B2F;
-}
-a.button {
-    background-color: red;
-    margin-top: 2%;
-}
-div#discover {
-    text-align: center;
-    background-color: #FAFAFA;
-    font-size: 11px;
+        height: 100%;
+        margin: 0%;
+        padding: 0%;
+    }
+    div#homepage {
+        background-color: #3A3033;
+        height: 100%;
+    }
+    div#title {
+        height: 25%;
+    }
+    i.fa.fa-facebook {
+        margin-left: 77%;
+    }
+    div#nav {
+        font-size: 10px;
+        padding: 0%;
+        margin: 0%;
+        margin-top: 1%;
+    }
+    div#social {
+        margin-top: 1%;
+    }
+    p#hm1 {
+        color: white;
+        font-size: 3em;
+    }
+    p#hm2 {
+        color: wheat;
+    }
+    i.fa.fa-minus.fa-3x {
+        margin-top: 7%;
+        margin-left: 5%;
+        font-size: 3em;
+    }
+    div#hometext {
+        text-align: center;
+    }
+    div#info {
+        height: 200%;
+    }
+    div#projects {
+        height: 19%;
+    }
+    div#leftproject {
+        height: 100%;
+    }
+    div#nestedprojects {
+        height: 100%;
+    }
+    div#highlighted {
+        background-color: #FAFAFA;
+        margin: 0%;
+        padding-bottom: 0%;
+        height: 56%;
+    }
+    p#lftp1 {
+        margin-top: 10%;
+        margin-left: 20%;
+        font-size: 12px;
+        margin-right: 11%;
+    }
+    h1 {
+        margin-top: 0%;
+        margin-left: 20%;
+        font-size: 30px;
+        margin-right: 11%;
+        font-weight: 900;
+    }
+    div#blank {
+        height: 30%;
+        padding-left: 0%;
+        padding-right: 0%;
+        margin-top: -3%;
+    }
+    div#colors {
+        height: 100%;
+    }
+    div#black {
+        height: 100%;
+        background-color: #3A3033;
+    }
+    div#grey {
+        height: 100%;
+        background-color: #362B2F;
+    }
+    a.button {
+        background-color: red;
+        margin-top: 2%;
+    }
+    div#discover {
+        text-align: center;
+        background-color: #FAFAFA;
+        font-size: 11px;
+    }
+    div#rightproject {
+        background-color: #FF0017;
+        height: 100%;
+    }
+    p#rghtp1 {
+        margin-top: 36%;
+        font-size: 12px;
+        margin-left: 15%;
+        color: gray;
+    }
+    b#b2 {
+        font-size: 28px;
+        color: #FFFFFF;
+    }
