@@ -129,3 +129,8 @@
     div#hitext1 {
         height: 29em;
     }
+    img#icon1 {
+        height: 3em;
+        width: 3em;
+        margin: 0em;
+    }
