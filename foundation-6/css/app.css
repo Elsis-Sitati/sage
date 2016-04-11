@@ -155,3 +155,24 @@
         color: grey;
         font-size: 12px;
     }
+    div#serve1 {
+        height: 7em;
+    }
+    h1#sv {
+        font-size: 49px;
+    }
+    img#servimg {
+        height: 3em;
+        width: 3em;
+    }
+    .row.small-up-1.medium-up-2.large-up-3 {
+        margin-left: 13em;
+        margin-right: 4em;
+    }
+    b {
+        font-size: 17px;
+    }
+    div#services {
+        background-color: #F7F7F7;
+        padding-bottom: 3em;
+    }
