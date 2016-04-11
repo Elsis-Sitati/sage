@@ -134,3 +134,24 @@
         width: 3em;
         margin: 0em;
     }
+    div#histicon {
+        height: 15em;
+    }
+    div#histicon {
+        margin-top: 4em;
+    }
+    div#histicon {
+        text-align: center;
+    }
+    b {
+        font-size: 11px;
+    }
+    p#picon {
+        color: red;
+        font-size: 53px;
+    }
+    h6 {
+        margin-top: -1em;
+        color: grey;
+        font-size: 12px;
+    }
