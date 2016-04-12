@@ -219,3 +219,17 @@
         margin-right: 29px;
         width: 31%;
     }
+    div#txtjo {
+        margin-top: 1em;
+    }
+    h4#shmre {
+        text-align: center;
+        margin-top: 3em;
+        text-decoration: underline;
+        font-size: 1em;
+        font-weight: 900;
+        color: #362B2F;
+    }
+    div#art {
+        height: 8em;
+    }
