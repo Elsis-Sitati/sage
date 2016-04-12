@@ -194,3 +194,11 @@
         color: white;
         text-decoration: underline;
     }
+    h1#jo {
+        font-size: 3em;
+        margin-top: 2%;
+        margin-left: 3em;
+    }
+    div#txtj {
+        height: 7em;
+    }
