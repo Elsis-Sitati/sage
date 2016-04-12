@@ -202,3 +202,20 @@
     div#txtj {
         height: 7em;
     }
+    div#hldr1 {
+        margin-top: 3em;
+    }
+    div#clr {
+        background-color: #362B2F;
+        height: 9em;
+        margin: 0%;
+        padding: 0%;
+    }
+    div#clr {
+        background-color: #362B2F;
+        height: 9em;
+        margin: 0%;
+        padding: 0%;
+        margin-right: 29px;
+        width: 31%;
+    }
